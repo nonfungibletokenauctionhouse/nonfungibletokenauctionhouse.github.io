@@ -1,5 +1,5 @@
 .container {
-  background: url("images/background.jpg");
+  background: url("background.jpg");
   background-attachment: fixed;
     display: flex;
   flex-direction: column;
